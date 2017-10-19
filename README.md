@@ -8,16 +8,16 @@ See Markdown file `DataPrep.md` for instructions to prepare data.
 
 ## Data Exploration
 
-See directory `data_exploration`
+See directory `data_exploration`.
 
 ## Model Training
 
-Code to create CNN models based on transfer learning
+Code to create CNN models based on transfer learning.
 
 See directory `training`
 
 ## Inference
 
-API setup to classify images based on trained models
+API setup to classify images based on trained models.
 
 See directory `inference`
