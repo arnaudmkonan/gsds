@@ -1,6 +1,5 @@
 # README
 
-
 ## Data Preparation
 
 See Markdown file `DataPrep.md` for instructions to prepare data.
@@ -16,8 +15,4 @@ see directory `training`
 see directory `inference`
 
 API setup to classify images based on our trained model
-
-
-## Summary
-
 
