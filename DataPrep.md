@@ -1,5 +1,11 @@
 # Data Preparation
 
+The general idea is to not create any new files. We separate out files to their respective classes. A test set is created
+and then from there all holdout sets are done via links to the original files. Training and validation holdouts are created
+via the following bash scripts. 
+
+Cross-validation is done directly in python.
+
 Installation requirements:
 
 * dos2unix
@@ -8,11 +14,7 @@ Installation requirements:
 ```
 mkdir data
 mv practical_set.zip data
-cd data 
-unzip practical_set.zip
-cd ..
 ```
-
 
 1. First create the test holdout, with 50 examples from each class removed from overall train data:
 ```
