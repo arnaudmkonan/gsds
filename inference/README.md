@@ -1,4 +1,4 @@
-# Inference Readme
+# README Inference
 
 This is a simple API based on flask and our model
 
