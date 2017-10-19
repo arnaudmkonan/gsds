@@ -6,7 +6,7 @@ See `INSTALL.md` for environment installation instructions.
 
 See Markdown file `DataPrep.md` for instructions to prepare data.
 
-## Data exploration
+## Data Exploration
 
 See directory `data_exploration`
 
