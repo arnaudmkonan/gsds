@@ -24,3 +24,16 @@ or for convenience, do the following
 ```
 feed examples/retail.jpeg
 ```
+
+should result in the following:
+```
+{
+  "predictions": [
+    {
+      "description": "retail", 
+      "label": 1, 
+      "probability": 97.92
+    }
+  ]
+}
+```
