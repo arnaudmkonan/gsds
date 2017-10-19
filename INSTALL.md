@@ -1,5 +1,7 @@
 # Installation
 
+This installation has been tested on ubuntu 16.04.
+
 ## conda setup
 
 Download miniconda, and download  version for python 3.6
